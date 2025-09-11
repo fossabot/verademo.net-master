@@ -48,5 +48,3 @@ Make the aforementioned zip file from the `./publishfiles/bin` directory
 And finally upload and scan
 
 ![Upload and scan](https://gitlab.laputa.veracode.io/solutions-architecture/verademo.net/raw/master/Docs/Images/uploadandscan.png "Upload and scan")
-
-test
