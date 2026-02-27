@@ -28,6 +28,7 @@ MSBuild arguments for pre-compilation using a publish profile, to make the publi
 Pre-compiled files are output to `./publishfiles` relative to the root build directory as per the [`veracode.pubxml`](https://gitlab.laputa.veracode.io/solutions-architecture/verademo.net/blob/master/Verademo-Dotnet/Properties/PublishProfiles/veracode.pubxml) publish profile in this repo
 
 ![MSBuild Arguments](https://gitlab.laputa.veracode.io/solutions-architecture/verademo.net/raw/master/Docs/Images/build.png "MSBuild Arguments")
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FUnregistered436Org%2Fverademo.net-master.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FUnregistered436Org%2Fverademo.net-master?ref=badge_shield)
 
 
 Recent versions of VSTS/TFS will make a `roslyn` folder than needs removing
@@ -48,3 +49,7 @@ Make the aforementioned zip file from the `./publishfiles/bin` directory
 And finally upload and scan
 
 ![Upload and scan](https://gitlab.laputa.veracode.io/solutions-architecture/verademo.net/raw/master/Docs/Images/uploadandscan.png "Upload and scan")
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FUnregistered436Org%2Fverademo.net-master.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FUnregistered436Org%2Fverademo.net-master?ref=badge_large)
